@@ -1,2 +1,2 @@
 # Publish-Fanuc-Data
-Publishing robot data collected from Fanuc.py
+Publishing robot data collected using Fanuc.py to an MQTT broker
