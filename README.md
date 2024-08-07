@@ -1,2 +1,2 @@
-# Publish-Fanuc-Data
-Publishing robot data collected using Fanuc.py to an MQTT broker
+# Get_Fanuc_Data
+A Python loop to retreive operational data from a Fanuc Educational Cell
